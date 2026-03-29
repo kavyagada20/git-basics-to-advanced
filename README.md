@@ -18,6 +18,7 @@ git-basics-to-advanced/
 ├── cheatsheets/     # Quick reference
 ├── scripts/         # Automation scripts
 └── interview-prep/  # Questions & scenarios
+
 🧠 Topics Covered
 Git Basics (init, add, commit, push)
 Branching & Merging
