@@ -1,14 +1,40 @@
 
 ---
 
-# 🚫 FINAL .gitignore
+# 🧹 2. FINAL `.gitignore`
 
 ```gitignore
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Environment
 .env
+.env.*
+
+# Virtual environments
+venv/
+env/
+
+# IDE
 .vscode/
+.idea/
+
+# OS
 .DS_Store
 Thumbs.db
+
+# Logs
 *.log
+
+# Database
+*.sqlite3
+
+# Misc
+*.bak
+*.swp
